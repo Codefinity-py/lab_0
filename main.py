@@ -1,6 +1,8 @@
-name = "Anastasiia"
-age =
-city =
-country =
+name = "Daniella"
+age = 17
+city = "Zhytomyr"
+country = "Ukraine"
 
 print(f'My name is {name}')
+print(f'I am {age} years old')
+print(f'I am from {city}, {country}')
