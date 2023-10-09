@@ -1,6 +1,6 @@
-name =
+name = 
 age =
-city =
-country =
+city = 
+country = 
 
 print(f'My name is {name}')
