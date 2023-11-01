@@ -1,0 +1,31 @@
+name= "Andriu"
+
+age= "20"
+
+city="Ottawa"
+
+country="Canada"
+
+
+
+print(f'My name is {name}')
+
+
+
+print(f'I am {age} years old')
+
+
+
+print(f"I am from {city}, {country}")
+
+
+
+
+
+Run code. 
+
+result:
+
+My name is Andriu
+I am 20 years old
+I am from Ottawa, Canada
